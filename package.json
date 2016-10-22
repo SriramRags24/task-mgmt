@@ -1,0 +1,23 @@
+{
+  "name": "task-mgmt",
+  "version": "1.0.0",
+  "description": "A personal task management web app using Bootstrap and Jqeury",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SriramRags24/task-mgmt.git"
+  },
+  "keywords": [],
+  "author": "Sriram Raghavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SriramRags24/task-mgmt/issues"
+  },
+  "homepage": "https://github.com/SriramRags24/task-mgmt#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
